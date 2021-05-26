@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to Typed Task 👋</h1>
-<p>
-</p>
+<h1 align="center">Welcome to Typed Task 📝</h1>
 
 > Project based on React, Redux, TS using JSON Server
 
